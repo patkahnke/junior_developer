@@ -1,0 +1,17 @@
+<?php
+
+/**
+ * Creates a schema for rendering content to the junior theme.
+ * @return array
+ */
+function junior_theme()
+{
+  return array(
+    'main_image_block' => array(
+      'variables' => array(
+          'image' => null,
+      ),
+      'template' => 'block--main-image',
+      ),
+  );
+}

@@ -1,0 +1,15 @@
+ - original content on recent learning
+ - original content from others on recent learning
+ - short code challenges, with ability to vote up or down
+    - solve a simple problem
+    - refactor a short piece of code
+ - links to curated resources
+    - training videos (must have a different method for storing links than the Proof API)
+    - training websites
+    - helpful articles
+ - job postings
+ - API to learn RESTful web services on Drupal
+ - ads for job postings in the user's area
+ - authenticated users can post comments, vote, etc. Anonymous users can view.
+ - page for users to post their own work for feedback
+

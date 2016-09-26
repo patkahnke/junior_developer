@@ -1,0 +1,5 @@
+name: Junior
+type: module
+description: "Main module for Junior Developer"
+package: custom
+core: 8.x
